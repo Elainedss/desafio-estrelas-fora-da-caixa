@@ -20,3 +20,5 @@ da API Rick e Morty
 #### Atualizando a Pagina
 
 ![preview project](https://github.com/Elainedss/projetoEstrelasForaDaCaixa/blob/main/img/previewProjectF5.jpg)
+
+Relatório pedido: https://www.notion.so/Desafio-Estrelas-fora-da-Caixa-Zup-0e06efc94674457b96a8b7ee34b50fe6?pvs=4
