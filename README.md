@@ -1,4 +1,4 @@
-## Projeto Estrelas Fora da Caixa | Zup
+## Desafio Estrelas Fora da Caixa | Zup
 
 ### Objetivo
 Fazer uma página que mostre 4 personagens aleatórios de Rick e Morty e seus nomes
